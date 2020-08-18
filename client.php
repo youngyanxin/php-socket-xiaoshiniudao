@@ -1,12 +1,3 @@
-
-<div>
-
-</div>
-<span>
-	<button>发送</button>
-</span>
-
-
 <?php
 /**
  * Created by PhpStorm.
