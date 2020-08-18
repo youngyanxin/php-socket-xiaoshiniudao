@@ -28,6 +28,13 @@ class socket
     }
 
 
+	/**
+	 * 连接socket
+	 * author yangyanxin
+	 * Date: 2020/8/18
+	 * updateDate: 2020年08月18日16:44:34
+	 * @return string
+	 */
     public function connect()
     {
         $socket = socket_create(AF_INET,SOCK_STREAM,SOL_TCP );
